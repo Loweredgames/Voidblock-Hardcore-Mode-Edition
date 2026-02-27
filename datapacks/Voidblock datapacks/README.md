@@ -1,4 +1,4 @@
-### Voidblock - Hardcore Mode Edition - Portable Version
+### Voidblock - Portable Version
 
 [![Crowdin](https://badges.crowdin.net/skyblock-classic-edition/localized.svg)](https://crowdin.com/project/skyblock-classic-edition)
 
