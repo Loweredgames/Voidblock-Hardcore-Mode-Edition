@@ -1,7 +1,5 @@
 ### Voidblock - Hardcore Mode Edition
 
-[![GitHub](https://img.shields.io/github/license/Loweredgames/Voidblock)]
-
 [![Crowdin](https://badges.crowdin.net/skyblock-classic-edition/localized.svg)](https://crowdin.com/project/skyblock-classic-edition)
 
 ![Logo](https://github.com/user-attachments/assets/e9622075-a83e-44e8-9683-da2e90a1b7c9)
