@@ -1,8 +1,8 @@
 {
   "pack": {
       "min_format": [76, 0],
-      "max_format": [82, 0],
-    "description": "Voidblock By Lorenzo Giannini"
+      "max_format": [84, 0],
+    "description": "Voidblock Hardcore Edition By Lorenzo Giannini"
   },
   "language": {
     "it_ch": {
