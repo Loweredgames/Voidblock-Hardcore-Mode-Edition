@@ -12,7 +12,7 @@
 
 
 ##26.1 - STABILE <-- QUI
-#scoreboard objectives remove PVN_0_mc261b
+#scoreboard objectives remove PVN_0_mc261
 scoreboard objectives remove PVN_0_mc261a
 
 
